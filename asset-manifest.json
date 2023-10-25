@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ist/static/css/main.55c2adc3.css",
+    "main.js": "/ist/static/js/main.3f4c4243.js",
+    "static/media/students-01.jpeg": "/ist/static/media/students-01.5bcb587addbbd5f2d995.jpeg",
+    "static/media/students-02.jpg": "/ist/static/media/students-02.0856dc8667158244cf90.jpg",
+    "static/media/indicator-selection-tool.jpg": "/ist/static/media/indicator-selection-tool.9629841655f4889cf740.jpg",
+    "static/media/indicator-selection-tool-process.gif": "/ist/static/media/indicator-selection-tool-process.068dcbf1cb5826febf06.gif",
+    "static/media/button-social.svg": "/ist/static/media/button-social.733a6c183a5c413ef3f477aea250d141.svg",
+    "static/media/button-education.svg": "/ist/static/media/button-education.498911b2262f16dde107a082cdd3dcd4.svg",
+    "static/media/button-empowerment.svg": "/ist/static/media/button-empowerment.97cb72b3b43e03b2215f3ec3d266d9d6.svg",
+    "static/media/button-economic.svg": "/ist/static/media/button-economic.5ef6d8b4f5f60c54975b90583e97ddff.svg",
+    "static/media/button-safety.svg": "/ist/static/media/button-safety.e160331056a49b421556e91e023bedd1.svg",
+    "static/media/button-health.svg": "/ist/static/media/button-health.38d9556de198041d02eed28c7de81f46.svg",
+    "static/media/button-home.svg": "/ist/static/media/button-home.c1101991f1b982605220f305922f4f32.svg",
+    "index.html": "/ist/index.html",
+    "main.55c2adc3.css.map": "/ist/static/css/main.55c2adc3.css.map",
+    "main.3f4c4243.js.map": "/ist/static/js/main.3f4c4243.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55c2adc3.css",
+    "static/js/main.3f4c4243.js"
+  ]
+}
